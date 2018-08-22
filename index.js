@@ -18,4 +18,10 @@ function johnLennonFacts(facts) {
   return exclamationPoint;
 }
 
+function iLoveTheBeatles(n) {
+  var loveBeatles = []
+    do { 
+    loveBeatles.push()
+      } while //([condition])
 
+}
