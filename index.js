@@ -12,7 +12,7 @@ return theBeatlesPlay }
 function johnLennonFacts(facts) {
   var exclamationPoint = [];
   var i = 0;
-  while (i < 4) {
+  while (i < facts.length) {
     exclamationPoint.push(`${facts[i]}!!!`); i++; 
   }
   return exclamationPoint;
